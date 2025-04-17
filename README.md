@@ -1,0 +1,2 @@
+It is a powerful Learning Management System designed for flexible and effective online education. It enables learners to gain new skills at their own pace, with courses delivered entirely online.
+Key Features:✔ Free Registration – Sign up easily and get instant access.✔ Course Selection – Browse and purchase courses as per your needs.✔ On-Demand Learning – Watch video courses anytime, anywhere.✔ User Management – Update profile, change passwords, and submit feedback.✔ Admin Control – Upload, edit, or remove courses and manage user details.
